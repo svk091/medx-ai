@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Data files (optional, if you don’t want to commit datasets)
+# *.csv
+# *.json
+# *.xlsx
+# *.h5
+# *.parquet
+# *.pkl
+
+# Logs and cache
+logs/
+*.log
+*.out
+*.err
+cache/
+__pycache__/
+
+# Environment files
+.env
+*.env
+
+# Streamlit-specific files
+.streamlit/
+
+# Model files and outputs (optional)
+*.pkl
+*.joblib
+*.hdf5
+*.tflite
+*.onnx
+*.pt
+*.pth
+models/
+checkpoints/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# VS Code-specific files
+.vscode/
+*.code-workspace
+
